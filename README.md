@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Akshayaa S 👋
+# Hi there, I'm Akshayaa S 👋
 ### AI Engineer | Generative AI, Agentic Systems & Computer Vision
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayaasd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,12 +20,55 @@ I build intelligent AI systems combining **Generative AI, multi-agent workflows,
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
 
-**Languages & Core:** Python, SQL  
-**AI/ML:** PyTorch, Computer Vision, NLP, Deep Learning  
-**GenAI:** RAG, LangChain, Agentic Systems, LLM APIs  
-**Backend & Tools:** FastAPI, MongoDB, Docker  
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/>
+      <br><sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/>
+      <br><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48"/>
+      <br><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48"/>
+      <br><sub><b>OpenCV</b></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48"/>
+      <br><sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+      <br><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
+      <br><sub><b>AWS</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,5 +103,5 @@ Building production-ready AI systems that are **scalable, explainable, and impac
 ### 📊 Activity & Growth
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayaasd&theme=tokyonight" alt="akshayaasd's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayaasd&theme=tokyonight"/>
 </p>
