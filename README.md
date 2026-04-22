@@ -16,7 +16,7 @@ I'm a passionate AI developer focused on building **Intelligent Agentic Systems*
 - 🔭 I’m currently working on **Multi-Agent RAG Systems**.
 - 🌱 I’m deepening my expertise in **Autonomous Agents** and **Edge AI**.
 - 💬 Ask me about **FastAPI, YOLO, or Large Language Models**.
-- 📫 Reach me at: [(https://www.linkedin.com/in/akshayaa--s/)]
+- 📫 Reach me at: (https://www.linkedin.com/in/akshayaa--s/)
 
 ---
 
