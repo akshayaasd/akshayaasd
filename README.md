@@ -3,6 +3,10 @@
 # Hi there, I'm Akshayaa S 👋
 ### AI Engineer | Generative AI, Agentic Systems & Computer Vision
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayaasd&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayaasd&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
